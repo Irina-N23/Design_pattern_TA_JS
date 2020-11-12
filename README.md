@@ -21,7 +21,7 @@ _- or -_
 npm run test -- --instances=2 --params.login.email "sometestuserqa@gmail.com" --params.login.password "everNote#28Qzx"
 
 
-## An example of command for running a test via Firefox browser:**
+## An example of command for running a test via Firefox browser:
 
 #### _angularjs:_
 npm run test -- --suite=angularjs --browser=firefox
