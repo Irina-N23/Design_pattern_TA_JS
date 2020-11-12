@@ -1,0 +1,13 @@
+# Logs
+*.log
+debug.log
+
+# Dependency directories
+node_modules
+
+# Eslint files
+.eslintignore
+.eslintrc.json
+
+# Mochawesome report
+mochawesome-report
