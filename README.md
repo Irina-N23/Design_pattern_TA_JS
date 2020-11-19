@@ -17,7 +17,7 @@ npm run test -- --params.login.email "sometestuserqa@gmail.com" --params.login.p
 
 #### _all (2 instances):_
 npm run test -- --suite=all --instances=2 --params.login.email "sometestuserqa@gmail.com" --params.login.password "everNote#28Qzx"
-_- or -_
+_-or-_
 npm run test -- --instances=2 --params.login.email "sometestuserqa@gmail.com" --params.login.password "everNote#28Qzx"
 
 
